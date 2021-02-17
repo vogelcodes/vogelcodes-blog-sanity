@@ -1,6 +1,6 @@
 export default {
-    name: 'leads',
-    title: 'Leads',
+    name: 'lead',
+    title: 'Lead',
     type: 'document',
     fields: [
       {
