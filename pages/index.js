@@ -14,7 +14,7 @@ export default function Index({ allPosts, preview }) {
     <>
       <Layout preview={preview}>
         <Head>
-          <title>VogelCodes - Serviços WEB</title>
+          <title>VogelCodes - Aprendendo a programar após os 30 anos</title>
         </Head>
         <Container>
           <Intro />
